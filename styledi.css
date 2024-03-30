@@ -1,0 +1,112 @@
+
+p {
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffd633;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 50px;
+} 
+
+body{
+  width: 100%; 
+  height: 800px; 
+  background-image: url('https://png.pngtree.com/background/20211215/original/pngtree-modern-simple-elegant-cool-gradient-cream-landing-page-website-background-picture-image_1455090.jpg');
+  background-size: cover; 
+  background-position: center; 
+  
+}
+ .head {
+  font-size: 40px; 
+  color: #333; 
+  font-family: Arial, sans-serif; 
+  text-align: center; 
+  
+    font-weight: bold;
+  color:  	 #602060;
+  }
+
+  .pic {
+    width: 300px; 
+    margin: 30px; 
+    text-align: center; 
+}
+
+.pic img {
+    width: 100%; 
+    height: 300px; 
+    width:300px;
+}
+
+.pic p {
+    margin: 10px 0;
+    
+  
+}
+
+.pic button {
+    background-color: #ffd633; 
+    color: white;
+    padding: 5px 10px;
+    border: 5px;
+    cursor: pointer;
+  
+} 
+     .container {
+    display: flex;
+    align-items: center;
+  }
+  .text {
+    margin-right: 20px;
+  }
+  .image {
+    margin-top: 20px; 
+    width: 500px; 
+  }    
+  
+  .contain {
+    text-align: center; 
+}
+
+.pic {
+    display: inline-block; 
+    margin: 10px; 
+    vertical-align: top; 
+    text-align: left; 
+}
+.button1 {
+    background-color: #ffd633; 
+    color: white;
+    padding: 5px 10px;
+    border: 5px;
+    cursor: pointer;
+  
+} 
+
+ .links {
+    color: #3333ff; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+}
+
+.links:hover {
+    color: #0056b3; 
+    text-decoration: underline; 
+}
+
+.links:focus {
+    outline: 2px solid #3333ff; 
+}

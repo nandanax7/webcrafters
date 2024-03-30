@@ -1,0 +1,60 @@
+
+ body{
+  width: 100%; 
+  height: 800px; 
+  background-image: url('https://lab-can.com/wp-content/uploads/2018/07/light-yellow-background-pale-yellow-clouds-texture-light-yellow-and-green-background-design.jpg');
+  background-size: cover; 
+  background-position: center; 
+  
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#ffd633;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 50px;
+} 
+    .heading {
+  font-size: 40px; 
+  color: #333; 
+  font-family: Arial, sans-serif; 
+  text-align: center; 
+  color:#4d3d00;
+  }
+ 
+ .text h1
+ {
+    color:#4d3d00;
+  font-family: Arial, sans-serif;  
+ }
+ .text p{
+    color:#4d3d00; 
+  font-size: 20px;
+  
+ }
+ 
+
+
+    .container {
+    display: flex;
+    align-items: center;
+  }
+  .text {
+    margin-right: 20px;
+  }
+  .image {
+    margin-top: 20px; 
+    width: 800px; 
+  }      
